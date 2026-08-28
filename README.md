@@ -80,18 +80,6 @@
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" width="100%" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mutawakel-hub&theme=github-compact&bg_color=0D1117&color=A259FF&line=58A6FF&point=FFFFFF&hide_border=true" width="100%" alt="Activity Graph" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mutawakel-hub&theme=github-dark-blue&background=181820&stroke=A259FF&ring=75C850&fire=F97EAE&currStreakNum=A259FF&sideNums=75C850&currStreakLabel=A259FF&sideLabels=75C850&dates=FFFFFF&border_radius=12" width="85%" alt="Streak Stats" />
-</div>
-
-<br>
-
 
 ---
 
