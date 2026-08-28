@@ -16,7 +16,7 @@
 
 ---
 
-### 👨‍💻 About Me & Academic Journey
+### 👨‍💻 About Me 
 
 - 🎓 Pursuing a Bachelor's degree in **Information Technology** at the University of Science and Technology, Sana'a (Expected 2027).
 - 🔬 **Tech Researcher:** Published a scientific paper on offline payment frameworks in the proceedings of an international conference indexed in **Scopus IEEE Xplore**.
@@ -26,14 +26,6 @@
 
 ---
 
-### 💼 Professional Experience
-
-- **ERP Systems Developer** @ *H. Company for Medical Products* (2025 - 2026)  
-  *Developed and customized ERP systems, analyzing functional requirements and integrating inventory, sales, and financial modules into a unified architecture.*
-- **Web Development Intern** @ *Ebdaa Media* (May - Jun 2026)  
-  *Built a Helpdesk system with Role-Based Access Control (RBAC) and robust authentication architectures.*
-
----
 
 
 ### 🛠️ Tech Stack & Tools
