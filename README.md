@@ -73,9 +73,6 @@
 
 <h2 align="center">✨ Dashboard</h2>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mutawakel-hub&theme=discord&no-frame=true&row=1&column=7" width="100%" alt="Trophies" />
-</div>
 
 <br>
 
@@ -95,16 +92,6 @@
 
 <br>
 
-<table width="100%" align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Mutawakel-hub&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="100%" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mutawakel-hub&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="100%" />
-    </td>
-  </tr>
-</table>
 
 ---
 
