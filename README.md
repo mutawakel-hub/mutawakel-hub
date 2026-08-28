@@ -1,55 +1,70 @@
 <h1 align="center">Hi there, I'm Ahmed Al-Mutawakel 👋</h1>
-<h3 align="center">Software Developer | Backend & Mobile Systems Engineer</h3>
+<h3 align="center">Full Stack Developer | Tech Researcher | Systems Engineer</h3>
 
 <p align="center">
-  A passionate Information Technology undergraduate focused on building robust backend infrastructure, high-security systems, and integrating AI into developer environments to streamline operations.
+  A passionate Information Technology undergraduate and tech researcher focused on building high-performance, secure software solutions. I specialize in digital payment systems, enterprise architectures (ERP), and integrating AI agents into core operations.
 </p>
 
 <p align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:ahmedali.mtw@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/mutawakel">
+  <a href="https://linkedin.com/in/mutawakel">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 About Me & Academic Journey
 
-- 🎓 Pursuing a Bachelor's degree in **Information Technology** (Expected 2027).
-- 💡 Specializing in containerized enterprise software environments, relational databases, and cloud deployments.
-- ⚙️ Deeply interested in designing offline-first system architectures and secure network protocols.
-- 🤖 Actively utilizing local and open-source AI tools (like **Qwen 2.5 Coder**, **Claude Code**, and **DB-GPT**) for advanced codebase analysis and optimization.
-- ✍️ Experienced in professional academic formatting and technical documentation using **Overleaf / LaTeX**.
-- 🌱 Currently exploring advanced backend switching and automated deployment pipelines.
+- 🎓 Pursuing a Bachelor's degree in **Information Technology** at the University of Science and Technology, Sana'a (Expected 2027).
+- 🔬 **Tech Researcher:** Published a scientific paper on offline payment frameworks in the proceedings of an international conference indexed in **Scopus IEEE Xplore**.
+- 💡 Specializing in containerized enterprise software environments, relational databases, and secure network protocols.
+- ⚙️ Deeply interested in designing offline-first system architectures (NFC/HCE), Data Encryption, and OWASP MASVS standards.
+- 🏆 Finalist in the **International Innovation & Invention Competition** (Yemeni Friendship and Cooperation Association - Turkey, 2026).
 
 ---
 
+### 💼 Professional Experience
+
+- **ERP Systems Developer** @ *H. Company for Medical Products* (2025 - 2026)  
+  *Developed and customized ERP systems, analyzing functional requirements and integrating inventory, sales, and financial modules into a unified architecture.*
+- **Web Development Intern** @ *Ebdaa Media* (May - Jun 2026)  
+  *Built a Helpdesk system with Role-Based Access Control (RBAC) and robust authentication architectures.*
+
+---
+
+
 ### 🛠️ Tech Stack & Tools
 
-**Languages & Documentation**  
+**Languages & Frameworks**  
 <p>
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" alt="LaTeX" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
 </p>
 
-**Infrastructure, Backend & Cloud**  
+**Infrastructure, Cloud & Databases**  
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
-  <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare Workers" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
-**Enterprise & Management Tools**  
+**Enterprise, Security & AI Tools**  
 <p>
   <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Security_&_Cryptography-000000?style=for-the-badge&logo=security&logoColor=white" alt="Security" />
+  <img src="https://img.shields.io/badge/LLM_APIs-FF9900?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs" />
+  <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" alt="LaTeX" />
 </p>
 
 ---
