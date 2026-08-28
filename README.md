@@ -16,15 +16,6 @@
 
 ---
 
-### 👨‍💻 About Me 
-
-- 🎓 Pursuing a Bachelor's degree in **Information Technology** at the University of Science and Technology, Sana'a (Expected 2027).
-- 🔬 **Tech Researcher:** Published a scientific paper on offline payment frameworks in the proceedings of an international conference indexed in **Scopus IEEE Xplore**.
-- 💡 Specializing in containerized enterprise software environments, relational databases, and secure network protocols.
-- ⚙️ Deeply interested in designing offline-first system architectures (NFC/HCE), Data Encryption, and OWASP MASVS standards.
-- 🏆 Finalist in the **International Innovation & Invention Competition** (Yemeni Friendship and Cooperation Association - Turkey, 2026).
-
----
 
 
 
